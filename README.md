@@ -1,1 +1,2 @@
-This is for devops readme file b2.
+
+This is for devops readme file b1
